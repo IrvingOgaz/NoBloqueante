@@ -1,0 +1,22 @@
+{
+  "name": "nobloq",
+  "version": "1.0.0",
+  "description": "proyecto no bloqueante",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingOgaz/NoBloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "irving ogaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingOgaz/NoBloqueante/issues"
+  },
+  "homepage": "https://github.com/IrvingOgaz/NoBloqueante#readme"
+}
